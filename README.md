@@ -1,2 +1,2 @@
-# hello-world
-Example of repository.
+# Fitness Club
+Projekt fitness klubu wykonany w programie Enterprise Architect.
